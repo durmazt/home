@@ -1,0 +1,45 @@
+
+/* // i have div with class "mainPage" and i want to little bit increase the size of the div but responsive */
+/*i've problem with firefox browser Layout page smaller and moving left and right, chrome and opera ok but firefox not ok 
+ arrange this css code in the right way to make it responsive and work in all browsers
+ 
+ 
+   <div className='mainPage'>
+    <Helmet>
+      <title>durmaz tekeli's blog</title>
+    </Helmet>
+    <Layout>
+        <div>
+        <SnippetCard />
+        <JourneyCard />
+        <SkillsCard />
+        <PersonalCard />
+        <BlogCard data={data}/>
+        <Footer />
+        
+        </div>
+       
+     
+      
+    </Layout>
+   </div>
+ 
+
+above code App.js, you handled left and right but now i want to handle top and bottom, i want to increase the size of the div but responsive
+
+i've problem with firefox browser Layout page smaller and moving left and right, chrome and opera ok but firefox not ok arrange this css code in the right way to make it responsive and work in all browsers
+please help me write css code in the right way to make it responsive and work in all browsers
+
+i've problem with firefox browser Layout page smaller and moving left and right, chrome and opera ok but firefox not ok arrange this css code in the right way to make it responsive and work in all browsers
+p*/
+
+.mainPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #f5f5f5;
+}
+
