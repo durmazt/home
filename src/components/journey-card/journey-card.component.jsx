@@ -62,10 +62,10 @@ const JourneyCard = () => {
 			<SubTitle>Past</SubTitle>
 			<ItemList>
 				<Item>
-					<CustomEmoji label='motobike' emoji='' /> Software Engineer at <CustomLink targetUrl='https://Tokmak.com.tr/'>Tokmak Teknoloji</CustomLink>. <Date>(Dec 2019 – Jun 2020)</Date>
+					<CustomEmoji label='motobike' emoji='' /> Software Engineer at <CustomLink targetUrl='https://Tokmak.com.tr/'>Tokmak Teknoloji</CustomLink>. <Date>(May 2022 – Jan 2023)</Date>
 				</Item>
 				<Item>
-					<CustomEmoji label='joystick' emoji='👁️' /> Computer Vision Engineer at <CustomLink targetUrl='https://visiomex.com/'>Visiomex</CustomLink>. <Date>(Dec 2019 – Jun 2020)</Date>
+					<CustomEmoji label='joystick' emoji='👁️' /> Computer Vision Engineer at <CustomLink targetUrl='https://visiomex.com/'>Visiomex</CustomLink>. <Date>(Jun 2021 – Mar 2022)</Date>
 				</Item>
 				<Item>
 					<CustomEmoji label='train' emoji='🚞' /> Took a gap year after graduation before starting my professional career.
